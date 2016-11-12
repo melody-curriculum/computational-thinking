@@ -33,14 +33,15 @@ creator:
 
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
-| 10 min  | [Opening](#opening)  | Greetings + Objectives  |
+| 5 min  | [Opening](#opening)  | Greetings + Objectives  |
 | 15 min  | [Introduction](#intro1)   | What is Computational Thinking? |
 | 15 min  | [Independent Practice](#ind-practice1)  | Bringing it Together: Practice |
+| 15 min  | [Computers](#computers)  | How does Computational Thinking Relate to Computers? |
 | 10 min   | [Pseudo Code](#pseudo-code)  | Pseudo Code|
 | 10 min  | [Independent Practice](#ind-practice2)   | Thermostat |
 
 <a name="opening"></a>
-### Review Learning Objectives
+### Review Learning Objectives (5 min)
 
 Let's start off by reviewing the learning objectives. First and foremost, we'll gain an overview of computational thinking. We'll also get to understand the various approaches used in computational thinking and what it means to "think like a programmer." We'll end with discussing the importance of planning and writing out pseudocode (the actions or logic behind our applications). 
 
@@ -93,9 +94,21 @@ Let's start off by reviewing the learning objectives. First and foremost, we'll 
 
 > Instructor Note: Have students refine their steps, till they get something like, in order to add all the numbers between 1 to blank, you follow this formula: ("blank"/2) * ("blank"+1). Once students have refined their algorithm, debrief and discuss "what can we draw from this exercise of using computational thinking?" 
 
-## How does Computational Thinking Relate to Computers?
+<a name="computers"></a>
+## How does Computational Thinking Relate to Computers? (10 min)
 
 Getting computers to help us solve a real-world problem involves first thinking about what steps need to be taken to solve the problem. We then need to use our technical skills to actually get the computer to follow a series of steps. Although it is sometimes thought that computers do much of the heavy lifting, we actually need to tell the computer exactly what steps to follow and in what order. For example, imagine that you are creating a log in system for your cool new website. You need to tell the computer that if a user is visiting your site for the first time you need him or her to sign up, and that you want to securely store their username and password in a database. However, if your user is a returning client, you want to allow him or her to enter in their username and password and check whether or not those credentials match what is stored. You then need to specify what happens next - is your user redirected to their profile or some other page?
+
+**Challenge**: Let's visit [Robby's Resume](http://www.rleonardi.com/interactive-resume/) together. With a partner I would like you to discuss how computational thinking was applied when creating this website. Here are some guiding questions that you should discuss with your partner:
+
+If tasked with the challenge of creating an interactive resume, 
+
+- how would Robby break this challenge in to smaller more approachable pieces? (decomposition)
+- what patterns could Robby come up with to help him streamline his creation process? (pattern recognition)
+- what principles govern these patterns and what can we filter out when thinking about how to approach this challenge? (abstraction)
+- what are the specific steps that would need to be followed to create one aspect of the site? (algorithm) 
+
+> Instructor Note: When students wrap up with their partner, have the class come together as a whole. Ask for various groups to share what they came up with. 
 
 <a name="pseudo-code"></a>
 ## Pseudo Code (10 min)
