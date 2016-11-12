@@ -33,40 +33,41 @@ creator:
 
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
-| 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
+| 10 min  | [Opening](#opening)  | Greetings + Objectives  |
 | 15 min  | [Introduction](#intro1)   | What is Computational Thinking? |
 | 15 min  | [Independent Practice](#ind-practice1)  | Bringing it Together: Practice |
-| 5 min   | [Pseudo Code](#pseudo-code)  | Pseudo Code|
+| 10 min   | [Pseudo Code](#pseudo-code)  | Pseudo Code|
 | 10 min  | [Independent Practice](#ind-practice2)   | Thermostat |
 
 <a name="opening"></a>
-## Opening: Greetings + The GA Experience (10 min)
-
-Did you know that there are over one billion websites that are live today? You're able to reach so many people by creating websites that distribute your ideas in a unique way. In this workshop, we'll be learning the building blocks, the type of thinking(computational thinking) that is so important to get you to soon bring your ideas to life and solve problems more effectively.
-
 ### Review Learning Objectives
 
 Let's start off by reviewing the learning objectives. First and foremost, we'll gain an overview of computational thinking. We'll also get to understand the various approaches used in computational thinking and what it means to "think like a programmer." We'll end with discussing the importance of planning and writing out pseudocode (the actions or logic behind our applications). 
-
-### Peer Introductions
-
->Instructor Note: Ask each student to share their first name and answer the following question: "What brought you here today?."
 
 <a name="intro1"></a>
 ## Introduction: What is Computational Thinking? (15 min)
 
 > Instructor Note: In the following section, students will discover what computational thinking is. Discuss the topics below. When applicable,  ask students to define, explain, or recall any **specific** elements relating to the current topic.
 
-The process of going from an idea to a fully developed and launched product is pretty cool! However, there are many components to building a product that allows for the type of functionality most clients seek today such as in an e-commerce website or a neat new camera lens. This process should always begin with something called computational thinking. Let's figure out with this means together. 
-
 **Computational thinking** is a problem solving process that includes:
 
 - **Decomposition**: Breaking down data, processes, or problems into smaller, manageable parts."
 - **Pattern Recognition**: Observing patterns, trends, and regularities in data.
-- **Abstraction**: Identifying the general principles that generate these patterns.
+- **Abstraction**: Identifying the general principles that generate these patterns. This involves filtering out the details we do not need in order to solve a problem. 
 - **Algorithm Design**: Developing the step by step instructions for solving this and similar problems. 
 
 ![](assets/ct.jpg)
+
+**Scenario Based Application**
+
+- Historically, a recession occurs in the United States every four to seven years. Studying the patterns that lead to this is an example of what? 
+
+- Matt is a first grader and he is asked to describe how to draw a cat. In order to a draw a cat Matt needs to know that a cat has a tail, fur, and eyes. He does not need to know what sound a cat makes or what a cat likes to eat. What is this an example of? 
+
+- If Carmen is asked to read the poem <i>Fire and Ice</i> by Robert Frost. She is then asked to analyze the meter, rhyme, imagery, structure, tone, diction, and meaning of the poem. What is this an example of? 
+
+- You have been asked to share your favorite recipe for chocolate chip cookies. You write down the step by step instructions that must be followed to ensure the perfect chewy cookie. What is this an example of?
+
 
 **Why is this important?**: 
 
@@ -78,7 +79,9 @@ The process of going from an idea to a fully developed and launched product is p
 <a name="ind-practice1"></a>
 ## Bringing it Together: Practice(15 min)
 
-I want you to sum up all of the numbers between 1 & 200. Let's break down this challenge. 
+> Instructor Note: In the following section, students will apply computational thinking to a problem. When you ask them the questions listed under each section(decomposition, pattern recognition, abstraction, and algorithms) have them take a moment to work with a neighbor and reflect on the questions you are asking. Once the whole class seems to be done discussing with partner, bring class together and ask someone to share what they came up with. 
+
+**Challenge**: I want you to sum up all of the numbers between 1 & 200. Let's break down this problem. 
 
 - Let's start with **decomposition**. How can we break up this problem in to smaller, more approachable pieces? Hint: begin adding pairs at the ends of the range, e.g 200+1.  
 
@@ -116,7 +119,7 @@ Again, the goal is to think through the problem and break it down into simple st
 
 
 <a name="ind-practice2"></a>
-## Independent Practice of Psuedo Code: Thermostat (10 min)
+## Independent Practice of Pseudo Code: Thermostat (10 min)
 
 With a partner, write pseudo code for an application that would monitor the room temperature and adjust it so the room remains at a certain temperature.
 
