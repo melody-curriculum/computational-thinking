@@ -93,6 +93,10 @@ Let's start off by reviewing the learning objectives. First and foremost, we'll 
 
 > Instructor Note: Have students refine their steps, till they get something like, in order to add all the numbers between 1 to blank, you follow this formula: ("blank"/2) * ("blank"+1). Once students have refined their algorithm, debrief and discuss "what can we draw from this exercise of using computational thinking?" 
 
+## How does Computational Thinking Relate to Computers?
+
+Getting computers to help us solve a real-world problem involves first thinking about what steps need to be taken to solve the problem. We then need to use our technical skills to actually get the computer to follow a series of steps. Although it is sometimes thought that computers do much of the heavy lifting, we actually need to tell the computer exactly what steps to follow and in what order. For example, imagine that you are creating a log in system for your cool new website. You need to tell the computer that if a user is visiting your site for the first time you need him or her to sign up, and that you want to securely store their username and password in a database. However, if your user is a returning client, you want to allow him or her to enter in their username and password and check whether or not those credentials match what is stored. You then need to specify what happens next - is your user redirected to their profile or some other page?
+
 <a name="pseudo-code"></a>
 ## Pseudo Code (10 min)
 
