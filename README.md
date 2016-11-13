@@ -99,7 +99,18 @@ Let's start off by reviewing the learning objectives. First and foremost, we'll 
 
 Getting computers to help us solve a real-world problem involves first thinking about what steps need to be taken to solve the problem. We then need to use our technical skills to actually get the computer to follow a series of steps. Although it is sometimes thought that computers do much of the heavy lifting, we actually need to tell the computer exactly what steps to follow and in what order. For example, imagine that you are creating a log in system for your cool new website. You need to tell the computer that if a user is visiting your site for the first time you need him or her to sign up, and that you want to securely store their username and password in a database. However, if your user is a returning client, you want to allow him or her to enter in their username and password and check whether or not those credentials match what is stored. You then need to specify what happens next - is your user redirected to their profile or some other page?
 
-**Challenge**: Let's visit [Robby's Resume](http://www.rleonardi.com/interactive-resume/) together. With a partner I would like you to discuss how computational thinking was applied when creating this website. Here are some guiding questions that you should discuss with your partner:
+**Challenge 1**: Fill in this table based on what you know about decomposition, pattern recognition, abstraction, and algorithms. 
+
+| TYPE  | Application |
+|---|---|
+  | Realize complex data structures require less code than complex programming  |
+  | Visualize data comparing microchip material and computer speed to notice a trend |
+  | Write a computer program to sort data |
+  | Break a computational graph problem into 4 sections, each one to be completed by a different computer processor |
+
+> Instructor Note: The answers are as follows: abstraction, pattern recognition, algorithms, decomposition. 
+
+**Challenge 2**: Let's visit [Robby's Resume](http://www.rleonardi.com/interactive-resume/) together. With a partner I would like you to discuss how computational thinking was applied when creating this website. Here are some guiding questions that you should discuss with your partner:
 
 If tasked with the challenge of creating an interactive resume, 
 
