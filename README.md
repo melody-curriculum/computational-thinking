@@ -37,6 +37,7 @@ creator:
 | 15 min  | [Introduction](#intro1)   | What is Computational Thinking? |
 | 15 min  | [Independent Practice](#ind-practice1)  | Bringing it Together: Practice |
 | 15 min  | [Computers](#computers)  | How does Computational Thinking Relate to Computers? |
+| 10 min  | [Algorithms](#algorithms)  | More on Algorithms |
 | 10 min   | [Pseudo Code](#pseudo-code)  | Pseudo Code|
 | 10 min  | [Independent Practice](#ind-practice2)   | Thermostat |
 
@@ -62,11 +63,19 @@ Let's start off by reviewing the learning objectives. First and foremost, we'll 
 
 - Historically, a recession occurs in the United States every four to seven years. Studying the patterns that lead to this is an example of what? 
 
+> Instructor Note: Answer - pattern recognition
+
 - Matt is a first grader and he is asked to describe how to draw a cat. In order to a draw a cat Matt needs to know that a cat has a tail, fur, and eyes. He does not need to know what sound a cat makes or what a cat likes to eat. What is this an example of? 
+
+> Instructor Note: Answer - abstraction
 
 - If Carmen is asked to read the poem <i>Fire and Ice</i> by Robert Frost. She is then asked to analyze the meter, rhyme, imagery, structure, tone, diction, and meaning of the poem. What is this an example of? 
 
+> Instructor Note: Answer - decomposition
+
 - You have been asked to share your favorite recipe for chocolate chip cookies. You write down the step by step instructions that must be followed to ensure the perfect chewy cookie. What is this an example of?
+
+> Instructor Note: Answer - algorithm
 
 
 **Why is this important?**: 
@@ -120,8 +129,12 @@ If tasked with the challenge of creating an interactive resume,
 
 > Instructor Note: When students wrap up with their partner, have the class come together as a whole. Ask for various groups to share what they came up with. 
 
+<a name="algorithms"></a>
 ## More on Algorithms(10 min)
 
+To reiterate an algorithm is comprised of a series of step-by-step instructions that can be used to solve a problem or carry out a task. Algorithms are very detailed and also sequential. It is possible to develop an algorithm or test it without writing any code, but technology can be quite useful for carrying out many steps of an algorithm more quickly.
+
+**Challenge**: Take 5 minutes to brainstorm the steps you would need to tell someone to take to make a peanut butter and jelly sandwich. Assume nothing. Do not assume that when you say "spread the jelly on one slice of bread", that your audience knows to turn the lid of the jar and remove the lid, etc. Once you are done brainstorming/planning turn to your neighbor and share your algorithm. Take note of how your algorithms differed. 
 
 
 <a name="pseudo-code"></a>
