@@ -12,9 +12,8 @@ creator:
 *After this lesson, you will be able to:*
 
 - Gain an overview of what computational thinking means.
-- Explain different practices of computational thinking.
-- Explain what it means to think like a programmer.
-- Practice programmatic thinking by writing pseudo-code.
+- Explain different practices of computational thinking and how they relate to computers.
+- Explain the importance of decomposition, pattern recognition, abstraction, and algorithms. 
 
 ### STUDENT PRE-WORK
 *Before this lesson, you should:*
@@ -46,7 +45,7 @@ creator:
 <a name="opening"></a>
 ### Review Learning Objectives(5 min)
 
-Let's start off by reviewing the learning objectives. First and foremost, we'll gain an overview of computational thinking. We'll also get to understand the various approaches used in computational thinking and what it means to "think like a programmer." We'll end with discussing the importance of planning and writing out pseudocode (the actions or logic behind our applications).
+Let's start off by reviewing the learning objectives. First and foremost, we'll gain an overview of computational thinking. We'll also get to understand the various approaches used in computational thinking and what it means to "think like a programmer." We'll end with an exercise that has you apply all the approaches discussed.
 
 <a name="intro1"></a>
 ## Introduction: What is Computational Thinking?(15 min)
