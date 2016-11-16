@@ -193,3 +193,11 @@ Again, the goal is to think through the problem and break it down into simple st
 > Instructor Note: Have students refine their steps, till they get something like, in order to add all the numbers between 1 to blank, you follow this formula: ("blank"/2) * ("blank"+1). Once students have refined their algorithm, debrief and discuss "what can we draw from this exercise of using computational thinking?"
 
 
+##Additional Resources
+- [Google Course](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
+- [Carnegie Mellon Article](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
+- [Video](https://www.youtube.com/watch?v=QpVqwZ2ce6g) on how Google used computational thinking when thinking about internet access from balloons
+- [Computational Thinking with Scratch Article](http://scratched.gse.harvard.edu/ct/defining.html)
+- [Algorithm Practice](https://computationalthinkingcourse.withgoogle.com/unit?unit=2&lesson=3)
+
+
