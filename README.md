@@ -25,7 +25,6 @@ creator:
 *Before this lesson, instructors will need to:*
 
 - Write learning objectives on board.
-- Make sure wifi network and password (GA Guest, yellowpencil) is written on board.
 
 
 ### WORKSHOP AGENDA
@@ -142,7 +141,7 @@ Pattern recognition involves finding similarities among different problems or ev
 
 <a name="abstraction"></a>
 ##More on Abstraction(10 min)
-Abstraction involves filtering out what we do not need to better concentrate on what we do need to solve a problem. This is an important strategy because 
+Abstraction involves filtering out what we do not need to better concentrate on what we do need to solve a problem. This is an important strategy because it allows us to only focus on what really matters, which in turn will make patterns more transparent. 
 
 **Challenge**: Use abstraction to answer the following questions. 
 
@@ -166,16 +165,12 @@ Again, the goal is to think through the problem and break it down into simple st
 
 >Example answer:
 
-```js
-get targetTemperature
-targetTemperature = 72
-repeat forever
+```
+1. Determine what the target temperature will be
+2. Find the current temperature
+3. If the current temperature is less than the target temperature, the heater should be turned on
+4. If the current temperature is greater than or equal to the target temperature, the heater should be turned off
 
-  currentTemperature = get sensor reading
-  if currentTemperature < targetTemperature,
-    turn on heater
-  if currentTemperature >= targetTemperature,
-    turn off heater
 ```
 
 >Walk through the problem and have a couple students share what they come up with. At this point students might not have the best idea of how to name variables etc., but that's okay! Focus on the logic here.
