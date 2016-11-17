@@ -31,8 +31,7 @@ creator:
 
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
-| 5 min  | [Opening](#opening)  | Greetings + Objectives  |
-| 15 min  | [Introduction](#intro1)   | What is Computational Thinking? |
+| 10 min  | [Introduction](#intro1)   | What is Computational Thinking? |
 | 15 min  | [Computers](#computers)  | How does Computational Thinking Relate to Computers? |
 | 10 min  | [Decomposition](#decomposition)  | More on Decomposition |
 | 10 min  | [Patterns](#patterns)  | More on Patterns |
@@ -41,19 +40,18 @@ creator:
 | 15 min  | [Independent Practice](#ind-practice1)  | Bringing it Together: Practice |
 
 
-<a name="opening"></a>
-### Review Learning Objectives(5 min)
+<a name="intro1"></a>
+## Introduction: What is Computational Thinking?(10 min)
+
 
 Let's start off by reviewing the learning objectives. First and foremost, we'll gain an overview of computational thinking. We'll also get to understand the various approaches used in computational thinking and what it means to "think like a programmer." We'll end with an exercise that has you apply all the approaches discussed.
-
-<a name="intro1"></a>
-## Introduction: What is Computational Thinking?(15 min)
+ 
 
 > Instructor Note: In the following section, students will discover what computational thinking is. Discuss the topics below. When applicable,  ask students to define, explain, or recall any **specific** elements relating to the current topic.
 
 **Computational thinking** is a problem solving process that includes:
 
-- **Decomposition**: Breaking down data, processes, or problems into smaller, manageable parts."
+- **Decomposition**: Breaking down data, processes, or problems into smaller, manageable parts.
 - **Pattern Recognition**: Observing patterns, trends, and regularities in data.
 - **Abstraction**: Identifying the general principles that generate these patterns. This involves filtering out the details we do not need in order to solve a problem.
 - **Algorithm Design**: Developing the step by step instructions for solving this and similar problems.
@@ -128,6 +126,8 @@ Currently there are 3 suspects: Bill, John, and Todd.
 Can you break the detective's code and find the criminal name?
 
 > Instructor Note: Some questions you can ask to help guide students: a) how can we break this problem in to smaller pieces? b) what are the important pieces of information in this riddle? c) What do we know? What do we need to find out?
+> 
+> P.S here is the actual solution: if you read the number upside down, you will notice that the numbers resemble letters and the whole sequence resembles a sentence that reads: Bill is boss. He sells oil.
 
 <a name="patterns"></a>
 ##More on Recognizing Patterns(10 min)
@@ -170,17 +170,18 @@ Again, the goal is to think through the problem and break it down into simple st
 2. Find the current temperature
 3. If the current temperature is less than the target temperature, the heater should be turned on
 4. If the current temperature is greater than or equal to the target temperature, the heater should be turned off
+5. Keep checking to make sure the current temperature equals the target temperature, if it does not, steps above should be followed over and over again. 
 
 ```
 
 >Walk through the problem and have a couple students share what they come up with. At this point students might not have the best idea of how to name variables etc., but that's okay! Focus on the logic here.
 
 <a name="ind-practice1"></a>
-## Bringing it Together: Practice(15 min)
+## Bringing it Together: Practice(25 min)
 
 > Instructor Note: In the following section, students will apply computational thinking to a problem. When you ask them the questions listed under each section(decomposition, pattern recognition, abstraction, and algorithms) have them take a moment to work with a neighbor and reflect on the questions you are asking. Once the whole class seems to be done discussing with partner, bring class together and ask someone to share what they came up with.
 
-**Challenge**: I want you to sum up all of the numbers between 1 & 200. Let's break down this problem.
+**Challenge 1**: I want you to sum up all of the numbers between 1 & 200. Let's break down this problem.
 
 - Let's start with **decomposition**. How can we break up this problem in to smaller, more approachable pieces? Hint: begin adding pairs at the ends of the range, e.g 200+1.  
 
@@ -192,7 +193,15 @@ Again, the goal is to think through the problem and break it down into simple st
 
 > Instructor Note: Have students refine their steps, till they get something like, in order to add all the numbers between 1 to blank, you follow this formula: ("blank"/2) * ("blank"+1). Once students have refined their algorithm, debrief and discuss "what can we draw from this exercise of using computational thinking?"
 
+**Challenge 2**:
 
+![](assets/ct2.png)
+
+This exercise will be a lot more free-form than the last. You should work on this either independently or with a partner, and you should be applying all of the tactics we learned in class today. Remember to break the problem down(decomposition), look for patterns when looking at how each x relates to its corresponding y(pattern recognition), focus in on just the information that you need to solve the problem(abstraction), and come up with a summary of steps you would need to follow to solve this problem again(algorithm).
+
+>Instructor Note: ask students to share what they came up with when it seems like most students are finished. 
+
+ 
 ##Additional Resources
 - [Google Course](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
 - [Carnegie Mellon Article](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
