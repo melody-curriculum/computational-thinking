@@ -130,7 +130,7 @@ Can you break the detective's code and find the criminal name?
 > P.S here is the actual solution: if you read the number upside down, you will notice that the numbers resemble letters and the whole sequence resembles a sentence that reads: Bill is boss. He sells oil.
 
 <a name="patterns"></a>
-##More on Recognizing Patterns(10 min)
+## More on Recognizing Patterns(10 min)
 Pattern recognition involves finding similarities among different problems or even amongst the small decomposed pieces of a more complex problem. This approach is important because problems are easier to solve when they share patterns. 
 
 **Challenge**: In the diagram below, what are some common patterns that you notice when steps are described for making each cake?
@@ -140,7 +140,7 @@ Pattern recognition involves finding similarities among different problems or ev
 >Instructor Note: some patterns students could point out are "preheat the oven to specific temperature," "bake for a specific time"
 
 <a name="abstraction"></a>
-##More on Abstraction(10 min)
+## More on Abstraction(10 min)
 Abstraction involves filtering out what we do not need to better concentrate on what we do need to solve a problem. This is an important strategy because it allows us to only focus on what really matters, which in turn will make patterns more transparent. 
 
 **Challenge**: Use abstraction to answer the following questions. 
@@ -202,7 +202,7 @@ This exercise will be a lot more free-form than the last. You should work on thi
 >Instructor Note: ask students to share what they came up with when it seems like most students are finished. 
 
  
-##Additional Resources
+## Additional Resources
 - [Google Course](https://computationalthinkingcourse.withgoogle.com/unit?lesson=8&unit=1)
 - [Carnegie Mellon Article](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
 - [Video](https://www.youtube.com/watch?v=QpVqwZ2ce6g) on how Google used computational thinking when thinking about internet access from balloons
